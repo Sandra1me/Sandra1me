@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sandra</h1>
-<h3 align="center">A rookie Python and MATLAB programmer from Spain</h3>
+<h3 align="center">An industrial engineer from Spain</h3>
 
 - 🔭 I’m currently working on **Hangman Project**
 
