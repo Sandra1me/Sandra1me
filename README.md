@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sandra</h1>
 <h3 align="center">An industrial engineer from Spain</h3>
 
-- 🔭 I’m currently working on [Hangman Project](https://github.com/Sandra1me/Hangman-Project)
+- 🔭 I’m currently working on **MATLAB: Taxi Fare Project**
 
 - 🌱 I’m currently learning **Python and MATLAB**
 
