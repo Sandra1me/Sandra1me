@@ -7,11 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://sandramartin.webflow.io/](https://sandramartin.webflow.io/)
 
-- 📝 I regularly write articles on [https://sandramartinelias.blogspot.com/](https://sandramartinelias.blogspot.com/)
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+- 📝 I regularly write articles on [https://sandramartin.hashnode.dev/](https://sandramartin.hashnode.dev/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
