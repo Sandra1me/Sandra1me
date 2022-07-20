@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sandra</h1>
 <h3 align="center">An industrial tehcnology engineer from Spain</h3>
 
-- 🔭 I’m currently working on [MATLAB: Structural Analysis of 3D Structures](https://github.com/Sandra1me/Structural-Analysis-of-3D-Structures.git)
+- 🔭 I’m currently working on **Dice Rolling Simulator**
 
 - 🌱 I’m currently learning **Python and MATLAB**
 
