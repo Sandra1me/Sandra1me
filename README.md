@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sandra</h1>
 <h3 align="center">An industrial tehcnology engineer from Spain</h3>
 
-- 🔭 I’m currently working on **Number Guessing Game**
+- 🔭 I’m currently working on **Message Encode Decode Project**
 
 - 🌱 I’m currently learning **Python and MATLAB**
 
