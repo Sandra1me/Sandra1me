@@ -28,9 +28,9 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [The Quick Guide To SOLIDWORKS Basic Sketching Tools](https://sandramartin.hashnode.dev/the-quick-guide-to-solidworks-basic-sketching-tools)
 - [How to Control the Mouse and Shortcuts In SOLIDWORKS](https://sandramartin.hashnode.dev/how-to-control-the-mouse-and-shortcuts-in-solidworks)
 - [Learn How to Edit And Customize CATIA V5 Environment](https://sandramartin.hashnode.dev/learn-how-to-edit-and-customize-catia-v5-environment)
 - [Let&#39;s Check the Great SOLIDWORKS and Discover the Interface!](https://sandramartin.hashnode.dev/lets-check-the-great-solidworks-and-discover-the-interface)
 - [Use the Editor to Start Creating Useful MATLAB Scripts](https://sandramartin.hashnode.dev/use-the-editor-to-start-creating-useful-matlab-scripts)
-- [Handy MATLAB Tips for beginners: Syntax, variable names and more](https://sandramartin.hashnode.dev/handy-matlab-tips-for-beginners-syntax-variable-names-and-more)
 <!-- BLOG-POST-LIST:END -->
