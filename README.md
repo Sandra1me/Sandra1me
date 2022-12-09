@@ -28,9 +28,9 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Top GitHub Alternatives to Share your Code](https://sandramartin.hashnode.dev/top-github-alternatives-to-share-your-code)
 - [Using the YOUCODE Searcher to Make your Developer Life Easier](https://sandramartin.hashnode.dev/using-the-youcode-searcher-to-make-your-developer-life-easier)
 - [CATIA V5: The Ultimate Guide to the Three Document Types](https://sandramartin.hashnode.dev/catia-v5-the-ultimate-guide-to-the-three-document-types)
 - [The Quick Guide To SOLIDWORKS Basic Sketching Tools](https://sandramartin.hashnode.dev/the-quick-guide-to-solidworks-basic-sketching-tools)
 - [How to Control the Mouse and Shortcuts In SOLIDWORKS](https://sandramartin.hashnode.dev/how-to-control-the-mouse-and-shortcuts-in-solidworks)
-- [Learn How to Edit And Customize CATIA V5 Environment](https://sandramartin.hashnode.dev/learn-how-to-edit-and-customize-catia-v5-environment)
 <!-- BLOG-POST-LIST:END -->
