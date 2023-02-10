@@ -27,9 +27,9 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [The Best Resources for Learning CATIA V5](https://sandramartin.hashnode.dev/the-best-resources-for-learning-catia-v5)
 - [Learn how to Create and Modify Variables in Python](https://sandramartin.hashnode.dev/learn-how-to-create-and-modify-variables-in-python)
 - [Top GitHub Alternatives to Share your Code](https://sandramartin.hashnode.dev/top-github-alternatives-to-share-your-code)
 - [Using the YOUCODE Searcher to Make your Developer Life Easier](https://sandramartin.hashnode.dev/using-the-youcode-searcher-to-make-your-developer-life-easier)
 - [CATIA V5: The Ultimate Guide to the Three Document Types](https://sandramartin.hashnode.dev/catia-v5-the-ultimate-guide-to-the-three-document-types)
-- [The Quick Guide To SOLIDWORKS Basic Sketching Tools](https://sandramartin.hashnode.dev/the-quick-guide-to-solidworks-basic-sketching-tools)
 <!-- BLOG-POST-LIST:END -->
