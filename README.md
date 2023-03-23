@@ -26,9 +26,9 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [SolidWorks vs. AutoCAD: What is the best program for you?](https://sandramartin.hashnode.dev/solidworks-vs-autocad-what-is-the-best-program-for-you)
 - [How To Learn MATLAB On Your Own: Beginner Tips](https://sandramartin.hashnode.dev/how-to-learn-matlab-on-your-own-beginner-tips)
 - [The Best Resources for Learning CATIA V5](https://sandramartin.hashnode.dev/the-best-resources-for-learning-catia-v5)
 - [Learn how to Create and Modify Variables in Python](https://sandramartin.hashnode.dev/learn-how-to-create-and-modify-variables-in-python)
 - [Top GitHub Alternatives to Share your Code](https://sandramartin.hashnode.dev/top-github-alternatives-to-share-your-code)
-- [Using the YOUCODE Searcher to Make your Developer Life Easier](https://sandramartin.hashnode.dev/using-the-youcode-searcher-to-make-your-developer-life-easier)
 <!-- BLOG-POST-LIST:END -->
