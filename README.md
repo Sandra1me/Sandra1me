@@ -26,9 +26,9 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Siemens NX And CATIA V5: The Epic CAD Battle!](https://sandramartin.hashnode.dev/siemens-nx-and-catia-v5-the-epic-cad-battle)
 - [Master SolidWorks: How to Gain Skills in the 3D Design Software](https://sandramartin.hashnode.dev/master-solidworks-how-to-gain-skills-in-the-3d-design-software)
 - [SolidWorks vs. CATIA: What is the best option for you?](https://sandramartin.hashnode.dev/solidworks-vs-catia-what-is-the-best-option-for-you)
 - [SolidWorks vs. AutoCAD: What is the best program for you?](https://sandramartin.hashnode.dev/solidworks-vs-autocad-what-is-the-best-program-for-you)
 - [How To Learn MATLAB On Your Own: Beginner Tips](https://sandramartin.hashnode.dev/how-to-learn-matlab-on-your-own-beginner-tips)
-- [The Best Resources for Learning CATIA V5](https://sandramartin.hashnode.dev/the-best-resources-for-learning-catia-v5)
 <!-- BLOG-POST-LIST:END -->
