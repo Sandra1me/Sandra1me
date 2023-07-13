@@ -26,9 +26,9 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [3D Design: The Complete Guide for Engineers](https://sandramartin.hashnode.dev/3d-design-the-complete-guide-for-engineers)
 - [3D Design: Why Solidworks is the Undisputed Leader](https://sandramartin.hashnode.dev/3d-design-why-solidworks-is-the-undisputed-leader)
 - [Epic Battle: CATIA V5 and SolidWorks: What Is The Best?](https://sandramartin.hashnode.dev/epic-battle-catia-v5-and-solidworks-what-is-the-best)
 - [Siemens NX And CATIA V5: The Epic CAD Battle!](https://sandramartin.hashnode.dev/siemens-nx-and-catia-v5-the-epic-cad-battle)
 - [Master SolidWorks: How to Gain Skills in the 3D Design Software](https://sandramartin.hashnode.dev/master-solidworks-how-to-gain-skills-in-the-3d-design-software)
-- [SolidWorks vs. CATIA: What is the best option for you?](https://sandramartin.hashnode.dev/solidworks-vs-catia-what-is-the-best-option-for-you)
 <!-- BLOG-POST-LIST:END -->
