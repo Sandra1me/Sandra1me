@@ -26,9 +26,9 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [The Superior Choice: Exploring Why SolidWorks Trumps AutoCAD in 3D Design](https://sandramartin.hashnode.dev/the-superior-choice-exploring-why-solidworks-trumps-autocad-in-3d-design)
 - [Mastering Innovation: The Impact of 3D Design on Engineering](https://sandramartin.hashnode.dev/mastering-innovation-the-impact-of-3d-design-on-engineering)
 - [Choosing the Best 3D Software for Mechanical Engineers](https://sandramartin.hashnode.dev/choosing-the-best-3d-software-for-mechanical-engineers)
 - [3D Design: The Complete Guide for Engineers](https://sandramartin.hashnode.dev/3d-design-the-complete-guide-for-engineers)
-- [3D Design: Why Solidworks is the Undisputed Leader](https://sandramartin.hashnode.dev/3d-design-why-solidworks-is-the-undisputed-leader)
 - [Epic Battle: CATIA V5 and SolidWorks: What Is The Best?](https://sandramartin.hashnode.dev/epic-battle-catia-v5-and-solidworks-what-is-the-best)
 <!-- BLOG-POST-LIST:END -->
