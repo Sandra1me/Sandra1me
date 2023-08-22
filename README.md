@@ -26,9 +26,9 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [SolidWorks: Your Essential Toolkit For Innovative Engineering](https://sandramartin.hashnode.dev/solidworks-your-essential-toolkit-for-innovative-engineering)
-- [SolidWorks Essentials: Navigating Its Unique Features for Engineers](https://sandramartin.hashnode.dev/solidworks-essentials-navigating-its-unique-features-for-engineers)
-- [The Superior Choice: Exploring Why SolidWorks Trumps AutoCAD in 3D Design](https://sandramartin.hashnode.dev/the-superior-choice-exploring-why-solidworks-trumps-autocad-in-3d-design)
-- [Mastering Innovation: The Impact of 3D Design on Engineering](https://sandramartin.hashnode.dev/mastering-innovation-the-impact-of-3d-design-on-engineering)
-- [Choosing the Best 3D Software for Mechanical Engineers](https://sandramartin.hashnode.dev/choosing-the-best-3d-software-for-mechanical-engineers)
+- [How SolidWorks Can Help Mechanical Engineers Design Better Products](https://sandramartin.hashnode.dev/how-solidworks-can-help-mechanical-engineers-design-better-products)
+- [SolidWorks: The Reliable Companion for Precision and Efficient Design](https://sandramartin.hashnode.dev/solidworks-the-reliable-companion-for-precision-and-efficient-design)
+- [SolidWorks: How to bring your mechanical engineering ideas to life](https://sandramartin.hashnode.dev/solidworks-how-to-bring-your-mechanical-engineering-ideas-to-life)
+- [SolidWorks Vs. AutoCAD: Which CAD Software Is Better For Your Needs?](https://sandramartin.hashnode.dev/solidworks-vs-autocad-which-cad-software-is-better-for-your-needs)
+- [3D Design: How It&#39;s Changing the Way Engineers Work](https://sandramartin.hashnode.dev/3d-design-how-its-changing-the-way-engineers-work)
 <!-- BLOG-POST-LIST:END -->
