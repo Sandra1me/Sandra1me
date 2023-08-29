@@ -26,9 +26,9 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [SolidWorks: A Powerful Platform for Creating Precision 3D Models](https://sandramartin.hashnode.dev/solidworks-a-powerful-platform-for-creating-precision-3d-models)
 - [How SolidWorks Can Help Mechanical Engineers Design Better Products](https://sandramartin.hashnode.dev/how-solidworks-can-help-mechanical-engineers-design-better-products)
 - [SolidWorks: The Reliable Companion for Precision and Efficient Design](https://sandramartin.hashnode.dev/solidworks-the-reliable-companion-for-precision-and-efficient-design)
 - [SolidWorks: How to bring your mechanical engineering ideas to life](https://sandramartin.hashnode.dev/solidworks-how-to-bring-your-mechanical-engineering-ideas-to-life)
 - [SolidWorks Vs. AutoCAD: Which CAD Software Is Better For Your Needs?](https://sandramartin.hashnode.dev/solidworks-vs-autocad-which-cad-software-is-better-for-your-needs)
-- [3D Design: How It&#39;s Changing the Way Engineers Work](https://sandramartin.hashnode.dev/3d-design-how-its-changing-the-way-engineers-work)
 <!-- BLOG-POST-LIST:END -->
