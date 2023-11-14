@@ -29,6 +29,6 @@
 - [SolidWorks: A Powerful Platform for Creating Precision 3D Models](https://sandramartin.hashnode.dev/solidworks-a-powerful-platform-for-creating-precision-3d-models)
 - [SolidWorks: The Reliable Companion for Precision and Efficient Design](https://sandramartin.hashnode.dev/solidworks-the-reliable-companion-for-precision-and-efficient-design)
 - [The 5 Best 3D Design Software for Mechanical Engineers](https://sandramartin.hashnode.dev/the-5-best-3d-design-software-for-mechanical-engineers)
-- [The Ultimate Guide to 3D Design for Engineers](https://sandramartin.hashnode.dev/the-ultimate-guide-to-3d-design-for-engineers)
-- [Epic Battle: CATIA V5 and SolidWorks: What Is The Best?](https://sandramartin.hashnode.dev/epic-battle-catia-v5-and-solidworks-what-is-the-best)
+- [How To Learn MATLAB On Your Own: Beginner Tips](https://sandramartin.hashnode.dev/how-to-learn-matlab-on-your-own-beginner-tips)
+- [The Best Resources for Learning CATIA V5](https://sandramartin.hashnode.dev/the-best-resources-for-learning-catia-v5)
 <!-- BLOG-POST-LIST:END -->
