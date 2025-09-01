@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sandra</h1>
 <h3 align="center">An industrial engineer specialized in Mechatronics</h3>
 
-- 🔭 I’m currently working on **Simple Task Manager in C**
+- 🔭 I’m currently working on **Contact Agenda in C**
 
-- 🌱 I’m currently learning **MySQL**
+- 🌱 I’m currently learning **C**
 
 - 👨‍💻 All of my projects are available at [https://sandramartin.webflow.io/](https://sandramartin.webflow.io/)
 
@@ -16,6 +16,6 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> </p>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sandra1me&show_icons=true&locale=en&layout=compact" alt="sandra1me" /></p>
