@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sandra</h1>
 <h3 align="center">An industrial engineer specialized in Mechatronics</h3>
 
-- 🔭 I’m currently working on **Hangman game in C**
+- 🔭 I’m currently working on **Contact Agenda in MySQL**
 
-- 🌱 I’m currently learning **C**
+- 🌱 I’m currently learning **Excel and Power Bi**
 
 - 👨‍💻 All of my projects are available at [https://sandramartin.webflow.io/](https://sandramartin.webflow.io/)
 
