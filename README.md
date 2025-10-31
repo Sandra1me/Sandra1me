@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sandra</h1>
 <h3 align="center">An industrial engineer specialized in Mechatronics</h3>
 
-- 🔭 I’m currently working on **Task Manager (To-Do-List) in MySQL**
+- 🔭 I’m currently working on **Material cost calculator in Excel**
 
-- 🌱 I’m currently learning **Excel and Power Bi**
+- 🌱 I’m currently learning **Adobe After Effects**
 
 - 👨‍💻 All of my projects are available at [https://sandramartin.webflow.io/](https://sandramartin.webflow.io/)
 
