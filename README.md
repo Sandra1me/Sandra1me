@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sandra</h1>
 <h3 align="center">An industrial engineer specialized in Mechatronics</h3>
 
-- 🔭 I’m currently working on **Material cost calculator in Excel**
+- 🔭 I’m currently working on **Virtual library in MySQL**
 
 - 🌱 I’m currently learning **Adobe After Effects**
 
