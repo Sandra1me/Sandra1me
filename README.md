@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sandra</h1>
 <h3 align="center">An industrial tehcnology engineer from Spain</h3>
 
-- 🔭 I’m currently working on **Virtual library in MySQL**
+- 🔭 I’m currently working on **Basic Sales Dashboard in Power BI**
 
-- 🌱 I’m currently learning **Adobe After Effects**
+- 🌱 I’m currently learning **Java**
 
 - 👨‍💻 All of my projects are available at [https://sandramartin.webflow.io/](https://sandramartin.webflow.io/)
 
