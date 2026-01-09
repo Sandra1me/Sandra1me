@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sandra</h1>
 <h3 align="center">An industrial tehcnology engineer from Spain</h3>
 
-- 🔭 I’m currently working on **Basic Sales Dashboard in Power BI**
+- 🔭 I’m currently working on **Stock Analysis in Power BI**
 
 - 🌱 I’m currently learning **Java**
 
