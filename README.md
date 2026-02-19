@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sandra</h1>
 <h3 align="center">An industrial tehcnology engineer from Spain</h3>
 
-- 🔭 I’m currently working on **Sales or inventory dashboard in Excel**
+- 🔭 I’m currently working on **Tic Tac Toe in C**
 
 - 🌱 I’m currently learning **Java and MySQL**
 
